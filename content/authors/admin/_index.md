@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benjamin Missqoui 吳恩達
+title: Benjamin Missaoui 吳恩達
 
 # Full name (for SEO)
 first_name: Benjamin
