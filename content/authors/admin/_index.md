@@ -26,6 +26,7 @@ interests:
   - Computer Vision
   - Unsupervised Learning
   - Robotics
+  - 3D Perception
 
 # Education to show in About widget
 education:
@@ -83,4 +84,4 @@ I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I w
 
 Previously, I interned at [Scortex](https://scortex.io), where I trained Deep Convolutional Networks with self-supervision to segment defects on industrial parts. I also co-authored a heuristic to automatically remove defective parts in a fully unlabeled dataset.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
