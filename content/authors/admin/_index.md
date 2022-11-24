@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benjamin Missaoui 吳恩達
+title: Benjamin Missaoui
 
 # Full name (for SEO)
 first_name: Benjamin
@@ -24,6 +24,7 @@ bio: Passionate from everything ML, especially Computer Vision, Robotics and Mac
 interests:
   - Machine Learning
   - Computer Vision
+  - Unsupervised Learning
   - Robotics
 
 # Education to show in About widget
@@ -80,6 +81,6 @@ I am passionate about ML, and I am currently seeking a 6-month ML research inter
 
 I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I interned at [Scortex](https://scortex.io), where I trained Deep Convolutional Networks with self-supervision to segment defects on industrial parts. I also co-authored a heuristic to automatically remove defective parts in a fully unlabeled dataset.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
