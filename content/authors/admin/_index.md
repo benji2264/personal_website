@@ -34,7 +34,7 @@ education:
       year: 2024 (expected)
     - course: MEng in Computer Science
       institution: University of Technology of Compiègne
-      year: 2023
+      year: 2023 (expected)
 
 
 # Social/Academic Networking
