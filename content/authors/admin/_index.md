@@ -77,8 +77,8 @@ email: 'benjamin.missaoui@gmail.com'
 highlight_name: true
 ---
 
-Hi! I am Benjamin and I am a a Computer Science Master's student at Georgia Tech.
-I am passionate about ML, and I am currently seeking a 6-month ML research internship starting between May and July 2023.
+Hi! I am Bewfrgetryjukienjamin and I am a a Computer Science Master's student at Georgia Tech.
+I am passionate about ML, and I am currently seeking a 6-month ML research internship starting besfdrgetween May and July 2023.
 
 I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
 
