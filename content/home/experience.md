@@ -25,7 +25,7 @@ experience:
   - title: Research assistant, Autonomous vehicles
     company: CNRS
     company_url: 'https://www.cnrs.fr/en'
-    company_logo: org-x
+    company_logo: cnrs.png
     location: Compiègne, France
     date_start: '2022-09-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Research project, 3D Computer Vision 
     company: Université de Technologie de Compiègne
     company_url: 'https://www.hds.utc.fr/en/research/research-teams/syri-robotic-systems-in-interaction.html'
-    company_logo: org-x
+    company_logo: utc.png
     location: Compiègne, France
     date_start: '2022-02-01'
     date_end: '2020-06-30'
