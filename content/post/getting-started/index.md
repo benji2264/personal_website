@@ -1,14 +1,14 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Benjamin Missaoui
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Hi! Benjamin Missaoui, I am a CS Master's student at Georgia Tech and a CNRS researcher. Currently seeking a 6-month ML research internship. Glad you found my website!
 
 # Link this post with a project
 projects: []
 
-# Date published
+# Date publishe
 date: '2020-12-13T00:00:00Z'
 
 # Date updated
@@ -29,16 +29,33 @@ image:
   preview_only: false
 
 authors:
-  - admin
-  - 吳恩達
+  - Benjamin Missaoui
 
 tags:
-  - Academic
-  - 开源
+  - Machine Learning
+  - Deep Learning
+  - Artificial intelligence
+  - ML
+  - AI
+  - Autonomous
+  - Research
+  - Georgia Tech
+  - UTC
+  - Computer Science
 
 categories:
-  - Demo
-  - 教程
+  - Machine Learning
+  - Deep Learning
+  - Artificial intelligence
+  - ML
+  - AI
+  - Autonomous
+  - Research
+  - Georgia Tech
+  - UTC
+  - Computer Science
+  
+
 ---
 
 ```python
