@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benjamin Missqoui 吳恩達
+title: Benjamin Missaoui
 
 # Full name (for SEO)
 first_name: Benjamin
@@ -24,17 +24,19 @@ bio: Passionate from everything ML, especially Computer Vision, Robotics and Mac
 interests:
   - Machine Learning
   - Computer Vision
+  - Unsupervised Learning
   - Robotics
+  - 3D Perception
 
 # Education to show in About widget
 education:
   courses:
     - course: MSc in Computer Science, ML
       institution: Georgia Tech
-      year: 2024 (expected)
+      year: 2022-2024 (expected)
     - course: MEng in Computer Science
       institution: University of Technology of Compiègne
-      year: 2023
+      year: 2018-2023 (expected)
 
 
 # Social/Academic Networking
@@ -75,8 +77,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Benjamin and I am a a Computer Science Master's student at Georgia Tech.
+I am passionate about ML, and I am currently seeking a 6-month ML research internship starting between May and July 2023.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Previously, I interned at [Scortex](https://scortex.io), where I trained Deep Convolutional Networks with self-supervision to segment defects on industrial parts. I also co-authored a heuristic to automatically remove defective parts in a fully unlabeled dataset.
+
