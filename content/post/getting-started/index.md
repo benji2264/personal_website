@@ -46,7 +46,7 @@ import libr
 print('hello')
 ```
 
-## Overview
+<!-- ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
@@ -107,4 +107,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. -->
