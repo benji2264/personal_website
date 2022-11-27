@@ -1,14 +1,14 @@
 ---
-title: Benjamin Missaoui
+title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Hi! Benjamin Missaoui, I am a CS Master's student at Georgia Tech and a CNRS researcher. Currently seeking a 6-month ML research internship. Glad you found my website!
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
 projects: []
 
-# Date publishe
+# Date published
 date: '2020-12-13T00:00:00Z'
 
 # Date updated
@@ -29,33 +29,16 @@ image:
   preview_only: false
 
 authors:
-  - Benjamin Missaoui
+  - admin
+  - 吳恩達
 
 tags:
-  - Machine Learning
-  - Deep Learning
-  - Artificial intelligence
-  - ML
-  - AI
-  - Autonomous
-  - Research
-  - Georgia Tech
-  - UTC
-  - Computer Science
+  - Academic
+  - 开源
 
 categories:
-  - Machine Learning
-  - Deep Learning
-  - Artificial intelligence
-  - ML
-  - AI
-  - Autonomous
-  - Research
-  - Georgia Tech
-  - UTC
-  - Computer Science
-  
-
+  - Demo
+  - 教程
 ---
 
 ```python
@@ -63,7 +46,7 @@ import libr
 print('hello')
 ```
 
-<!-- ## Overview
+## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
@@ -124,4 +107,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. -->
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
