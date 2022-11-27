@@ -25,7 +25,7 @@ experience:
   - title: Research assistant, Autonomous vehicles
     company: CNRS
     company_url: 'https://www.cnrs.fr/en'
-    company_logo: cnrs
+    company_logo: org-x
     location: Compiègne, France
     date_start: '2022-09-01'
     date_end: ''
@@ -40,10 +40,10 @@ experience:
   - title: Research project, 3D Computer Vision 
     company: Université de Technologie de Compiègne
     company_url: 'https://www.hds.utc.fr/en/research/research-teams/syri-robotic-systems-in-interaction.html'
-    company_logo: utc
+    company_logo: org-x
     location: Compiègne, France
     date_start: '2022-02-01'
-    date_end: '2020-07-01'
+    date_end: '2020-06-30'
     description: |2-
         Research topic: Partial LiDAR point clouds completion:
         • Reimplemented and compared state of the art deep learning methods for LiDAR point clouds completion.
@@ -54,8 +54,8 @@ experience:
   - title: Deep Learning Research Intern 
     company: Scortex
     company_url: 'https://scortex.io'
-    company_logo: utc
-    location: Compiègne, France
+    company_logo: org-x
+    location: Paris, France
     date_start: '2022-02-01'
     date_end: '2020-07-01'
     description: |2-
