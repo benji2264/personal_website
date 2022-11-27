@@ -80,7 +80,7 @@ highlight_name: true
 Hi! I am Benjamin and I am a a Computer Science Master's student at Georgia Tech.
 I am passionate about ML, and I am currently seeking a 6-month ML research internship starting between May and July 2023.
 
-I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
+I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
 
 Previously, I interned at [Scortex](https://scortex.io), where I trained Deep Convolutional Networks with self-supervision to segment defects on industrial parts. I also co-authored a heuristic to automatically remove defective parts in a fully unlabeled dataset.
 
