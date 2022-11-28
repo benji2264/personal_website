@@ -32,6 +32,7 @@ item:
     title: Deep Learning Specialization
     url: ''
 
+item:
     - certificate_url: https://www.coursera.org/account/accomplishments/specialization/TB6PGBU3AGVU
     date_end: ''
     date_start: '2021-09-16'
@@ -40,8 +41,9 @@ item:
     organization_url: https://www.coursera.org
     title: GANs Specialization
     url: ''
-
-      - certificate_url: https://www.coursera.org/account/accomplishments/specialization/TKEFA783YLJ4
+    
+item:
+    - certificate_url: https://www.coursera.org/account/accomplishments/specialization/TKEFA783YLJ4
     date_end: ''
     date_start: '2021-08-07'
     description: 'MOOC on advanced TF techniques like custom training loops, multi-GPUs training, Functional API, image generation with VAEs.'
