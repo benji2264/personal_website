@@ -25,7 +25,7 @@ experience:
   - title: Research assistant, Autonomous vehicles
     company: CNRS
     company_url: 'https://www.cnrs.fr/en'
-    company_logo: org-x
+    company_logo: cnrs-logo
     location: Compiègne, France
     date_start: '2022-09-01'
     date_end: ''
