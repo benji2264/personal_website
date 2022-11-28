@@ -10,7 +10,7 @@ last_name: Missaoui
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Master's student at Georgia Tech
+role: Computer Science Master's student at Georgia Tech and UTC
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,10 +32,10 @@ interests:
 education:
   courses:
     - course: MSc in Computer Science, ML
-      institution: Georgia Tech
+      institution: Georgia Tech, USA
       year: 2022-2024 (expected)
     - course: MEng in Computer Science
-      institution: University of Technology of Compiègne
+      institution: University of Technology of Compiègne, France
       year: 2018-2023 (expected)
 
 
@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am Benjamin and I am a a Computer Science Master's student at Georgia Tech.
+Hi! I am Benjamin and I am a a Computer Science Master's student at Georgia Tech and the UTC.
 I am passionate about ML, and I am currently seeking a 6-month ML research internship starting between May and July 2023.
 
 I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
