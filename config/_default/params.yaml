@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Benjamin Missaoui. This work is licensed under {license}'
+    notice: '© {year} Benjamin Missaoui.' # This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
