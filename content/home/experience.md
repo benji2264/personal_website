@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        Research topic: Car localization with centimeter-level accuracy      
+        Research topic: Car localization with centimeter-level accuracy.    
 
         * Developing a deep learning based algorithm for street lamps detection to determine the vehicle position on a map.
         * Generating automatically labelled training data by projecting the poles from a map into the vehicle frame.
@@ -45,7 +45,8 @@ experience:
     date_start: '2022-02-01'
     date_end: '2020-06-30'
     description: |2-
-        Research topic: Partial LiDAR point clouds completion:
+        Research topic: Partial LiDAR point clouds completion.
+        
         • Reimplemented and compared state of the art deep learning methods for LiDAR point clouds completion.
         • Deployed these algorithms on the lab’s vehicles for real-world testing.
         
