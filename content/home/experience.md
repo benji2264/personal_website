@@ -46,9 +46,9 @@ experience:
     date_end: '2020-06-30'
     description: |2-
         Research topic: Partial LiDAR point clouds completion.
-        
-        • Reimplemented and compared state of the art deep learning methods for LiDAR point clouds completion.
-        • Deployed these algorithms on the lab’s vehicles for real-world testing.
+
+        * Reimplemented and compared state of the art deep learning methods for LiDAR point clouds completion.
+        * Deployed these algorithms on the lab’s vehicles for real-world testing.
         
         Skills: Deep Learning, 3D Computer Vision, PyTorch
 
@@ -63,8 +63,8 @@ experience:
         6 months research internship on Deep Unsupervised Anomaly Detection.
         Goal: Improve defect detection on industrial parts.
 
-        • Co-authored a heuristic to remove defective parts in a fully unlabelled dataset with 90+ AUC.
-        • Fine-tuned pre-trained networks with self-supervision to improve defect detection AUC from 91.6 to 96.1 points.
+        * Co-authored a heuristic to remove defective parts in a fully unlabelled dataset with 90+ AUC.
+        * Fine-tuned pre-trained networks with self-supervision to improve defect detection AUC from 91.6 to 96.1 points.
         
         Skills: TensorFlow, Computer Vision, Machine Learning, Deep learning
 
