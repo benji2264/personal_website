@@ -1,5 +1,5 @@
 ---
-title: 'Map-aided annotation for pole base detectionBenjamin'
+title: 'Map-aided annotation for pole base detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
