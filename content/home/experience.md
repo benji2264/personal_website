@@ -28,12 +28,12 @@ experience:
     company_logo: cnrs-logo
     location: Compiègne, France
     date_start: '2022-09-01'
-    date_end: ''
+    date_end: '2023-02-01'
     description: |2-
         Research topic: Car localization with centimeter-level accuracy.    
 
         * Developing a deep learning based algorithm for street lamps detection to determine the vehicle position on a map.
-        * Generating automatically labelled training data by projecting the poles from a map into the vehicle frame.
+        * Generating automatically labelled training data by projecting the poles from a map into the vehicle frame. (Paper under review at IEEE IV 2023)
 
         Skills: Deep Learning, Weakly-supervised learning, ROS
 
