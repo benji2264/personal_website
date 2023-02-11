@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research project, 3D Computer Vision
+    company: Georgia Tech-Europe
+    company_url: 'https://dream.georgiatech-metz.fr/'
+    company_logo: gt-logo
+    location: Metz, France
+    date_start: '2023-01-01'
+    date_end: ''
+    description: |2-
+        Research topic: a study of Neural Radiance Fields (NeRFs) for novel view synthesis of hyperspectral images.
+
+        * Studying the extension of NeRFs to semi-transparent objects.
+
+        Skills: 3D reconstruction, Computer Graphics
+
   - title: Research assistant, Autonomous vehicles
     company: CNRS
     company_url: 'https://www.cnrs.fr/en'
     company_logo: cnrs-logo
     location: Compiègne, France
     date_start: '2022-09-01'
-    date_end: '2023-02-01'
+    date_end: '2023-01-01'
     description: |2-
         Research topic: Car localization with centimeter-level accuracy.    
 
@@ -43,7 +57,7 @@ experience:
     company_logo: utc-logo
     location: Compiègne, France
     date_start: '2022-02-01'
-    date_end: '2020-06-30'
+    date_end: '2022-06-30'
     description: |2-
         Research topic: Partial LiDAR point clouds completion.
 
@@ -57,8 +71,8 @@ experience:
     company_url: 'https://scortex.io'
     company_logo: scortex-logo
     location: Paris, France
-    date_start: '2022-02-01'
-    date_end: '2020-07-01'
+    date_start: '2021-07-01'
+    date_end: '2022-01-01'
     description: |2-
         6 months research internship on Deep Unsupervised Anomaly Detection.
         Goal: Improve defect detection on industrial parts.
