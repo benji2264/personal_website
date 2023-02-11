@@ -18,7 +18,7 @@ organizations:
     url: https://www.cnrs.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate from everything ML, especially Computer Vision, Robotics and Machine Perception
+bio: Passionate about everything ML, especially Computer Vision, Computer graphics and Robotics
 
 # Interests to show in About widget
 interests:
