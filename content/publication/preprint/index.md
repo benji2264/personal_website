@@ -1,7 +1,9 @@
 ---
 title: "Data refinement for fully unsupervised visual inspection using pre-trained networks"
 authors:
+- Antoine Cordier
 - admin
+- Pierre Gutierrez
 date: "2022-02-25T00:00:00Z"
 doi: ""
 
@@ -18,7 +20,17 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Anomaly detection has recently seen great progress in the field of visual inspection. More specifically, the
+use of classical outlier detection techniques on features extracted by deep pre-trained neural networks have been
+shown to deliver remarkable performances on the MVTec Anomaly Detection (MVTec AD) dataset. However,
+like most other anomaly detection strategies, these pre-trained methods assume all training data to be normal.
+As a consequence, they cannot be considered as fully unsupervised. There exists to our knowledge no work
+studying these pre-trained methods under fully unsupervised setting. In this work, we first assess the robustness
+of these pre-trained methods to fully unsupervised context, using polluted training sets (i.e. containing defective
+samples), and show that these methods are more robust to pollution compared to methods such as CutPaste. We
+then propose SROC, a Simple Refinement strategy for One Class classification. SROC enables to remove most of
+the polluted images from the training set, and to recover some of the lost AUC. We further show that our simple
+heuristic competes with, and even outperforms much more complex strategies from the existing literature.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
