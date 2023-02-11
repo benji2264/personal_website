@@ -25,8 +25,8 @@ interests:
   - Machine Learning
   - Computer Vision
   - Unsupervised Learning
-  - Robotics
   - 3D Perception
+  - Robotics
 
 # Education to show in About widget
 education:
