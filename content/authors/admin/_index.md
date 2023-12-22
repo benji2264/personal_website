@@ -75,11 +75,11 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Benjamin and I am a Computer Science Master's student at Georgia Tech and the University of Technology of Compiègne.
-I specialize in ML, and I am currently seeking a full-time position or a PhD after my graduation in May 2024. I am also opened to internships for summer 2024.
+Hi! I'm Benjamin, glad you found my website! I'm a CS Master's student at Georgia Tech graduating May 2024.
+I'm passionate about everything ML and Computer Vision. I'm actively seeking either a full-time or a PhD position after graduation. I'd also be interested in internships for summer 2024. Don't hesitate to reach out :)
 
-I am currently a research intern at Bosch in Singapore, where I work on foundation models for Computer Vision and NLP, under the supervision of [Dr. Chi Trung Ngo](https://sg.linkedin.com/in/chitrungngo).
+From June to December 2023, I was an intern at Bosch Research in Singapore, working on foundation models for Computer Vision, under the supervision of [Dr. Chi Trung Ngo](https://sg.linkedin.com/in/chitrungngo). My paper on using SAM in contrastive learning got accepted at the Self-Supervised Learning workshop at NeurIPS 2023.
 
-Previously, I interned at [Scortex](https://scortex.io), where I trained Deep Convolutional Networks with self-supervision to segment defects on industrial parts. I also [co-authored a paper](https://arxiv.org/abs/2202.12759) on automatically removing defective parts from a fully unlabeled dataset.
+Previously, I've been fortunate to do research on Neural Radiance Fields (NeRFs) under Prof. Cédric Pradalier at [Georgia Tech Europe](https://europe.gatech.edu/en), and autonomous driving under Prof. Philippe Xu at [University of Technology of Compiègne](https://www.hds.utc.fr/en.html) (accepted at IV 2023).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
