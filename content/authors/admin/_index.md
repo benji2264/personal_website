@@ -10,23 +10,21 @@ last_name: Missaoui
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Master's student at Georgia Tech and UTC
+role: Computer Science Master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CNRS (National Center for Scientific research)
-    url: https://www.cnrs.fr/en
+  - name: Georgia Institute of Technology
+    url: https://ml.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate about everything ML, especially Computer Vision, Computer graphics and Robotics
+bio: Passionate about everything ML and Computer Vision
 
 # Interests to show in About widget
 interests:
   - Machine Learning
   - Computer Vision
   - Unsupervised Learning
-  - 3D Perception
-  - Robotics
 
 # Education to show in About widget
 education:
@@ -77,10 +75,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am Benjamin and I am a a Computer Science Master's student at Georgia Tech and the UTC.
-I am passionate about ML, and I am currently seeking a 6-month ML research internship starting around June 2023.
+Hi! I'm Benjamin and I am a Computer Science Master's student at Georgia Tech and the University of Technology of Compiègne.
+I specialize in ML, and I am currently seeking a full-time position or a PhD after my graduation in May 2024. I am also opened to internships for summer 2024.
 
-I am currently a research assistant at [CNRS](https://www.cnrs.fr/en), where I work on localization for autonomous vehicles under the supervision of [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/).
+I am currently a research intern at Bosch in Singapore, where I work on foundation models for Computer Vision and NLP, under the supervision of [Dr. Chi Trung Ngo](https://sg.linkedin.com/in/chitrungngo).
 
 Previously, I interned at [Scortex](https://scortex.io), where I trained Deep Convolutional Networks with self-supervision to segment defects on industrial parts. I also [co-authored a paper](https://arxiv.org/abs/2202.12759) on automatically removing defective parts from a fully unlabeled dataset.
 
