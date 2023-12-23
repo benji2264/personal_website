@@ -64,6 +64,7 @@ experience:
         
         The method was accepted at IEEE IV 2023 [5], the most prestigious conference on intelligent vehicles. 
 
+        [5] B. Missaoui, M. Noizet, P. Xu, "Map-aided annotation for pole base detection" (Accepted at IV 2023)
   # - title: Research project, 3D Computer Vision 
   #   company: Université de Technologie de Compiègne
   #   company_url: 'https://www.hds.utc.fr/en/research/research-teams/syri-robotic-systems-in-interaction.html'
