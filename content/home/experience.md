@@ -25,15 +25,18 @@ experience:
 
   - title: AI Research Intern, Foundation Models
     company: Bosch Research
-    company_url: 'https://dream.georgiatech-metz.fr/'
+    company_url: 'https://www.bosch-ai.com/'
     company_logo: bosch-logo
     location: Singapore, Singapore
     date_start: '2023-06-01'
     date_end: '2023-12-01'
     description: |2-
-        6-month internship working on state-of-the-art self supervised contrastive learning of image representations. Here, my work has focused on using foundation models (like SAM) to select better views for contrastive learning (which is usually done randomly). This work was accepted at a NeurIPS 2023 workshop [1], and another paper is under review at CVPR 2024 [2]. I also invented a method for batch image annotation (pending patent) [3]. 
+        6-month research internship on contrastive learning for images. Here, my work has focused on using foundation models (like SAM) to select better views for contrastive learning (which is usually done randomly). Accepted at NeurIPS 2023 workshop [1], and under review at CVPR 2024 [2]. I also invented a method for batch image annotation (pending patent) [3]. 
+
         [1] B. Missaoui, C. Yuan, "SAMCLR: Contrastive pre-training on complex scenes using SAM for view sampling" (Accepted at NeurIPS'23 workshop)
+
         [2] B. Missaoui, C. Yuan, T. Ngo "Towards disambiguated self-supervised learning" (Under review at CVPR 2024)
+
         [3] T. Ngo, B. Missaoui et al., Automated Image Annotation Method And System (EU patent)
 
   - title: Research project, 3D Computer Vision
@@ -44,11 +47,10 @@ experience:
     date_start: '2023-01-01'
     date_end: '2023-05-01'
     description: |2-
-        Research topic: a study of Neural Radiance Fields (NeRFs) for novel view synthesis of hyperspectral images.
+        Research project on 3D reconstruction with Neural Radiance Fields (NeRFs), which we extended to be able to generate any wavelength (not just RGB). This enables all new use cases in biology and recycling, where different plants or materials exhibit different properties depending on the wavelength they are viewed from. Submitted to ICCV 2023 [4].
+        
+        [4] G. Chen,  H. Muriki, B. Missaoui, al., "Hyper-NeRF: Hyperspectral Neural Radiance Fields with Continuous Radiance and Transparency Spectra"  (Submitted to ICCV 2023)
 
-        * Studying the extension of NeRFs to semi-transparent objects.
-
-        Skills: 3D reconstruction, Computer Graphics
 
   - title: Research assistant, Autonomous vehicles
     company: CNRS
@@ -58,26 +60,23 @@ experience:
     date_start: '2022-09-01'
     date_end: '2023-01-01'
     description: |2-
-        Research topic: Car localization with centimeter-level accuracy.    
-
-        * Studied the applications of Object Detections models to 2D points data.
-        * Generated automatically labelled training data by projecting the poles from a map into the vehicle frame. (Paper under review at IEEE IV 2023)
-
-        Skills: Deep Learning, Weakly-supervised learning, ROS
-
-  - title: Research project, 3D Computer Vision 
-    company: Université de Technologie de Compiègne
-    company_url: 'https://www.hds.utc.fr/en/research/research-teams/syri-robotic-systems-in-interaction.html'
-    company_logo: utc-logo
-    location: Compiègne, France
-    date_start: '2022-02-01'
-    date_end: '2022-06-30'
-    description: |2-
-        Research topic: Partial LiDAR point clouds completion.
-
-        * Reimplemented and compared state of the art deep learning methods for LiDAR point clouds completion.
+        Developed a solution fusing camera, LiDAR and IMU for projecting landmarks from 2D maps to the vehicle's camera frame, enabling to get high-quality-pseudo labeled training data for object detection models.
         
-        Skills: Deep Learning, 3D Computer Vision, PyTorch
+        The method was accepted at IEEE IV 2023 [5], the most prestigious conference on intelligent vehicles. 
+
+  # - title: Research project, 3D Computer Vision 
+  #   company: Université de Technologie de Compiègne
+  #   company_url: 'https://www.hds.utc.fr/en/research/research-teams/syri-robotic-systems-in-interaction.html'
+  #   company_logo: utc-logo
+  #   location: Compiègne, France
+  #   date_start: '2022-02-01'
+  #   date_end: '2022-06-30'
+  #   description: |2-
+  #       Research topic: Partial LiDAR point clouds completion.
+
+  #       * Reimplemented and compared state of the art deep learning methods for LiDAR point clouds completion.
+        
+  #       Skills: Deep Learning, 3D Computer Vision, PyTorch
 
   - title: Deep Learning Research Intern 
     company: Scortex
@@ -91,10 +90,8 @@ experience:
         Goal: Improve defect detection on industrial parts.
 
         * Co-authored a heuristic to remove defective parts in a fully unlabelled dataset with 90+ AUC.
-        * Fine-tuned pre-trained networks with self-supervision to improve defect detection AUC from 91.6 to 96.1 points.
+        * Fine-tuned pre-trained networks with synthetic defects to improve defect detection AUC from 91.6 to 96.1 points.
         
-        Skills: TensorFlow, Computer Vision, Machine Learning, Deep learning
-
 design:
   columns: '2'
 ---
