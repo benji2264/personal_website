@@ -79,7 +79,7 @@ experience:
         
   #       Skills: Deep Learning, 3D Computer Vision, PyTorch
 
-  - title: Deep Learning Research Intern 
+  - title: Research Engineer Intern, Computer Vision 
     company: Scortex
     company_url: 'https://scortex.io'
     company_logo: scortex-logo
