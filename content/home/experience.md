@@ -22,7 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research project, 3D Computer Vision
+  - title: AI Research Intern, Foundation Models
+    company: Bosch Research
+    company_url: 'https://dream.georgiatech-metz.fr/'
+    company_logo: bosch-logo
+    location: Singapore, Singapore
+    date_start: '2023-01-01'
+    date_end: ''
+    description: |2-
+        6-month internship working on state-of-the-art self supervised contrastive learning of image representations. Here, my work has focused on using foundation models (like SAM) to select better views for contrastive learning (which is usually done randomly). This work was accepted at a NeurIPS 2023 workshop [1], and another paper is under review at CVPR 2024 [2]. I also invented a method for batch image annotation (pending patent) [3]. 
+
+        [1] B. Missaoui, C. Yuan, "SAMCLR: Contrastive pre-training on complex scenes using SAM for view sampling" (Accepted at NeurIPS'23 workshop)
+        [2] B. Missaoui, C. Yuan, T. Ngo "Towards disambiguated self-supervised learning" (Under review at CVPR 2024)
+        [3] T. Ngo, B. Missaoui et al., Automated Image Annotation Method And System (EU patent)
+- title: Research project, 3D Computer Vision
     company: Georgia Tech-Europe
     company_url: 'https://dream.georgiatech-metz.fr/'
     company_logo: gt-logo
