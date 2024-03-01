@@ -80,6 +80,6 @@ I'm passionate about everything ML and Computer Vision. I'm actively seeking eit
 
 From June to December 2023, I was an intern at Bosch Research in Singapore, working on foundation models for Computer Vision, under the supervision of [Dr. Chi Trung Ngo](https://sg.linkedin.com/in/chitrungngo). My paper on using SAM in contrastive learning got accepted at the Self-Supervised Learning workshop at NeurIPS 2023.
 
-Previously, I've been fortunate to do research on Neural Radiance Fields (NeRFs) under Prof. Cédric Pradalier at [Georgia Tech Europe](https://europe.gatech.edu/en), and autonomous driving under Prof. Philippe Xu at [University of Technology of Compiègne](https://www.hds.utc.fr/en.html) (accepted at IV 2023).
+Since January 2023, I've been fortunate to research Neural Radiance Fields (NeRFs) under [Prof. Yongsheng Chen](https://ce.gatech.edu/directory/person/yongsheng-chen) at Georgia Tech. Previously, I worked on autonomous driving under Prof. Philippe Xu at [CNRS](https://www.hds.utc.fr/en.html) (accepted at IV 2023).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
