@@ -50,15 +50,15 @@ experience:
 
   - title: Research project, 3D Computer Vision
     company: Georgia Tech-Europe
-    company_url: 'https://dream.georgiatech-metz.fr/'
+    company_url: 'https://ml.gatech.edu//'
     company_logo: gt-logo
-    location: Metz, France
+    location: Atlanta, USA
     date_start: '2023-01-01'
-    date_end: '2023-05-01'
+    date_end: '2024-05-01'
     description: |2-
         Research project on 3D reconstruction with Neural Radiance Fields (NeRFs), which we extended to be able to generate any wavelength (not just RGB). This enables all new use cases in biology and recycling, where different plants or materials exhibit different properties depending on the wavelength they are viewed from. Submitted to ICCV 2023 [4].
         
-        [4] G. Chen,  H. Muriki, B. Missaoui, al., "Hyper-NeRF: Hyperspectral Neural Radiance Fields with Continuous Radiance and Transparency Spectra"  (Submitted to ICCV 2023)
+        [4] G. Chen,  H. Muriki, B. Missaoui, al., "Hyper-NeRF: Hyperspectral Neural Radiance Fields with Continuous Radiance and Transparency Spectra"  (Under review at 3DV 2025)
 
 
   - title: Research assistant, Autonomous vehicles

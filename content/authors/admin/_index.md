@@ -75,11 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Benjamin, glad you found my website! I'm a CS Master's student at Georgia Tech graduating May 2024.
-I'm passionate about everything ML and Computer Vision. I'm actively seeking either a full-time or a PhD position after graduation. I'd also be interested in internships for summer 2024. Don't hesitate to reach out :)
-
-From June to December 2023, I was an intern at Bosch Research in Singapore, working on foundation models for Computer Vision, under the supervision of [Dr. Chi Trung Ngo](https://sg.linkedin.com/in/chitrungngo). My paper on using SAM in contrastive learning got accepted at the Self-Supervised Learning workshop at NeurIPS 2023.
-
-Since January 2023, I've been fortunate to research Neural Radiance Fields (NeRFs) under [Prof. Yongsheng Chen](https://ce.gatech.edu/directory/person/yongsheng-chen) at Georgia Tech. Previously, I worked on autonomous driving under Prof. Philippe Xu at [CNRS](https://www.hds.utc.fr/en.html) (accepted at IV 2023).
+Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student at Nvidia's Dynamic Vision and Learning lab supervised by Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before, I graduated from Georgia Tech with a CS Master's in May 2024.
+I'm also a piano and travel enthusiast! Don't hesitate to reach out :)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
