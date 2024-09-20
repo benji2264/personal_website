@@ -31,10 +31,10 @@ education:
   courses:
     - course: MSc in Computer Science, ML
       institution: Georgia Tech, USA
-      year: 2023-2024 (expected)
+      year: 2023-2024
     - course: MEng in Computer Science
       institution: University of Technology of Compiègne, France
-      year: 2018-2023 (expected)
+      year: 2018-2023
 
 
 # Social/Academic Networking
