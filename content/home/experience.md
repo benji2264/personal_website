@@ -40,25 +40,23 @@ experience:
     date_start: '2023-06-01'
     date_end: '2023-12-01'
     description: |2-
-        6-month research internship on contrastive learning for images. Here, my work has focused on using foundation models (like SAM) to select better views for contrastive learning (which is usually done randomly). Accepted at NeurIPS 2023 workshop [1], and under review at CVPR 2024 [2]. I also invented a method for batch image annotation (pending patent) [3]. 
+        6-month research internship on contrastive learning for images. Here, my work has focused on using foundation models (like SAM) to select better views for contrastive learning (which is usually done randomly). Accepted at NeurIPS 2023 workshop [1]. I also invented a method for batch image annotation (pending patent) [2]. 
 
         [1] B. Missaoui, C. Yuan, "SAMCLR: Contrastive pre-training on complex scenes using SAM for view sampling" (Accepted at NeurIPS'23 workshop)
 
-        [2] B. Missaoui, C. Yuan, T. Ngo "Towards disambiguated self-supervised learning" (Under review at CVPR 2024)
-
-        [3] T. Ngo, B. Missaoui et al., Automated Image Annotation Method And System (EU patent)
+        [2] T. Ngo, B. Missaoui et al., Automated Image Annotation Method And System (EU patent)
 
   - title: Research project, 3D Computer Vision
-    company: Georgia Tech-Europe
+    company: Georgia Tech
     company_url: 'https://ml.gatech.edu//'
     company_logo: gt-logo
     location: Atlanta, USA
     date_start: '2023-01-01'
     date_end: '2024-05-01'
     description: |2-
-        Research project on 3D reconstruction with Neural Radiance Fields (NeRFs), which we extended to be able to generate any wavelength (not just RGB). This enables all new use cases in biology and recycling, where different plants or materials exhibit different properties depending on the wavelength they are viewed from. Submitted to ICCV 2023 [4].
+        Research project on 3D reconstruction with Neural Radiance Fields (NeRFs), which we extended to be able to generate any wavelength (not just RGB). This enables all new use cases in biology and recycling, where different plants or materials exhibit different properties depending on the wavelength they are viewed from. Under review at 3DV 2025[4].
         
-        [4] G. Chen,  H. Muriki, B. Missaoui, al., "Hyper-NeRF: Hyperspectral Neural Radiance Fields with Continuous Radiance and Transparency Spectra"  (Under review at 3DV 2025)
+        [3] G. Chen,  H. Muriki, B. Missaoui, al., "HS-NeRF: HyperSpectral Neural Radiance Fields with Continuous Radiance and Transparency Spectra"  (Under review at 3DV 2025)
 
 
   - title: Research assistant, Autonomous vehicles
@@ -73,7 +71,7 @@ experience:
         
         The method was accepted at IEEE IV 2023 [5], the most prestigious conference on intelligent vehicles. 
 
-        [5] B. Missaoui, M. Noizet, P. Xu, "Map-aided annotation for pole base detection" (Accepted at IV 2023)
+        [4] B. Missaoui, M. Noizet, P. Xu, "Map-aided annotation for pole base detection" (Accepted at IV 2023)
   # - title: Research project, 3D Computer Vision 
   #   company: Université de Technologie de Compiègne
   #   company_url: 'https://www.hds.utc.fr/en/research/research-teams/syri-robotic-systems-in-interaction.html'
