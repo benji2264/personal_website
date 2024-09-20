@@ -28,7 +28,7 @@ experience:
     company_url: 'https://research.nvidia.com/labs/dvl/'
     company_logo: nvidia
     location: Modena, Iraly
-    date_start: '2023-07-01'
+    date_start: '2024-07-01'
     description: |2-
         Online Multi-Object Tracking with Graph Neural Networks under Dr. Laura Leal-Taixé.  
 
