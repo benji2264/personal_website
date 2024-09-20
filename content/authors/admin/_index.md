@@ -22,9 +22,9 @@ bio: Passionate about everything ML and Computer Vision
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Computer Vision
-  - Unsupervised Learning
+  - Video Understanding
+  - Self-Supervised Learning
+  - Multi-Object Tracking
 
 # Education to show in About widget
 education:
@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student at Nvidia's Dynamic Vision and Learning lab supervised by Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before, I graduated from Georgia Tech with a CS Master's in May 2024.
+Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student at Nvidia's Dynamic Vision and Learning lab supervised by Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before that, I graduated from Georgia Tech with a CS Master's in May 2024.
 I'm also a piano and travel enthusiast! Don't hesitate to reach out :)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
