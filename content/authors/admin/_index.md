@@ -14,8 +14,8 @@ role: PhD Student, Video Understanding
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: NVIDIA
-    url: https://ml.gatech.edu/
+  - name: NVIDIA & Unimore
+    url: https://research.nvidia.com/labs/dvl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about everything ML and Computer Vision
@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: PhD, Video Understanding
-      institution: NVIDIA & UniMore
+      institution: NVIDIA & Unimore
       year: 2025-2028
     - course: MSc in Computer Science
       institution: Georgia Tech, USA
@@ -78,7 +78,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student at NVIDIA's Dynamic Vision and Learning lab supervised by Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before that, I graduated from Georgia Tech with a CS Master's in May 2024.
+Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student between NVIDIA's DVL lab and Unimore, supervised by the wonderful Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before that, I was a Master's student at Georgia Tech, which I graduated from in May 2024.
 I'm also a piano and travel enthusiast! Don't hesitate to reach out :)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
