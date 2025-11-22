@@ -10,11 +10,11 @@ last_name: Missaoui
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Master's student
+role: PhD Student, Video Understanding
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Georgia Institute of Technology
+  - name: NVIDIA
     url: https://ml.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Computer Science, ML
+    - course: PhD, Video Understanding
+      institution: NVIDIA & UniMore
+      year: 2025-2028
+    - course: MSc in Computer Science
       institution: Georgia Tech, USA
       year: 2023-2024
     - course: MEng in Computer Science
@@ -75,7 +78,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student at Nvidia's Dynamic Vision and Learning lab supervised by Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before that, I graduated from Georgia Tech with a CS Master's in May 2024.
+Hi! I'm Benjamin, glad you found my website! I'm currently a PhD Student at NVIDIA's Dynamic Vision and Learning lab supervised by Laura Leal-Taixé. My research interests include Video Understanding, Self-Supervised Learning and Multi-Object Tracking. Check out our lab [here](https://research.nvidia.com/labs/dvl/)! Before that, I graduated from Georgia Tech with a CS Master's in May 2024.
 I'm also a piano and travel enthusiast! Don't hesitate to reach out :)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}

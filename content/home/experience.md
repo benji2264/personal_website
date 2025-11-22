@@ -24,14 +24,22 @@ date_format: Jan 2006
 experience:
 
   - title: PhD Student, Video Understanding
-    company: Nvidia
+    company: NVIDIA
+    company_url: 'https://research.nvidia.com/labs/dvl/'
+    company_logo: nvidia
+    location: Modena, Italy
+    date_start: '2025-11-01'
+    description: |2-
+        Video Foundation Models, under Dr. Laura Leal-Taixé.  
+  - title: Research Scientist Intern
+    company: NVIDIA
     company_url: 'https://research.nvidia.com/labs/dvl/'
     company_logo: nvidia
     location: Modena, Italy
     date_start: '2024-07-01'
+    date_end: '2025-10-31'
     description: |2-
-        Online Multi-Object Tracking with Graph Neural Networks under Dr. Laura Leal-Taixé.  
-
+        Multi-Object Tracking under Dr. Laura Leal-Taixé.  
   - title: AI Research Intern, Foundation Models
     company: Bosch Research
     company_url: 'https://www.bosch-ai.com/'

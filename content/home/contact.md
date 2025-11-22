@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: benjamin.missaoui@gmail.com
-  phone: +33 6 62 74 51 87
+  # phone: +33 6 62 74 51 87
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford

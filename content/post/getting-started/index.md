@@ -3,7 +3,7 @@ title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Hi! My name is Benjamin Missaoui. I am a Master's student at Georgia Tech and the UTC. I am passionate about Machine Learning and Deep Learning research, and I am seeking a 6-month internship in that field. Glad you found my website!
+summary: Hi! My name is Benjamin Missaoui. I am a PhD Student at NVIDIA and Unimore. My research interests are Video Understanding, Representation Learning, and Multi-Object tracking. Glad you found my website!
 
 # Link this post with a project
 projects: []
@@ -43,6 +43,8 @@ tags:
   - ML
   - Georgia Tech
   - Georgia Institute of Technology
+  - NVIDIA
+  - Unimore
   - UTC
   - Compiègne
   - Missaoui
@@ -60,6 +62,7 @@ categories:
   - ML
   - Georgia Tech
   - Georgia Institute of Technology
+  - NVIDIA
   - UTC
   - Compiègne
   - Missaoui
